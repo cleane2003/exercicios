@@ -1,1 +1,1 @@
-# exercicios
+# mgr-exercicios
